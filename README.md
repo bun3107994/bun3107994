@@ -1,13 +1,12 @@
 # Hi there, I'm Alhagie Kijera! 👋
 
 ## 👨‍💻 About Me
-I'm a data analyst passionate about turning raw data into 
-actionable business insights.  
+I'm a data analyst passionate about turning raw data into actionable business insights.
 Currently completing the **Google Data Analytics Certificate**.
 
-📍 Based in Hamburg, Germany  
-📧 Reach me at: bunkijera7@gmail.com  
-💼 Open to: Entry-level Data Analyst roles  
+📍 Based in Hamburg, Germany
+📧 bunkijera7@gmail.com
+💼 Open to: Entry-level Data Analyst roles
 
 ---
 
@@ -19,9 +18,9 @@ Currently completing the **Google Data Analytics Certificate**.
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-**Competencies:**  
-Data Cleaning · Exploratory Analysis · Data Visualization · 
-Forecasting · Dashboard Design · SQL · 
+**Competencies:**
+Data Cleaning · Exploratory Analysis · Data Visualization ·
+Forecasting · Dashboard Design · SQL ·
 Python (Pandas, Matplotlib, Scikit-learn)
 
 ---
@@ -35,11 +34,12 @@ Python (Pandas, Matplotlib, Scikit-learn)
 - Identified **Technology** as top category at **$827,456**
 - **South region** identified as biggest growth opportunity
 - Built a **6-month sales forecast** using Linear Regression
-- Created interactive **Tableau dashboard** with KPIs, map & filters
+- Created interactive **Tableau dashboard** with KPIs, map and filters
 
 **Tools:** Python · Pandas · Matplotlib · Scikit-learn · Tableau Public
 
-🔗 [View Live Tableau Dashboard](https://public.tableau.com/app/profile/alhagie.kijera/viz/SalesPerformanceAnalysisGoogleCapstoneproject/SalesPerformanceAnalysisDashboard?publish=yes)  
+🔗 [View Live Tableau Dashboard](https://public.tableau.com/app/profile/alhagie.kijera/viz/SalesPerformanceAnalysisGoogleCapstoneproject/SalesPerformanceAnalysisDashboard?publish=yes)
+
 📄 [Read Full Case Study](https://github.com/bun3107994/sales-performance-analysis/blob/main/report/Capstone_case_study_report.pdf)
 
 ---
@@ -50,6 +50,7 @@ Python (Pandas, Matplotlib, Scikit-learn)
 ---
 
 ## 📬 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhagiekijera)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/alhagie.kijera)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bunkijera7@gmail.com)
